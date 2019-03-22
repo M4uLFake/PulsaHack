@@ -1,9 +1,12 @@
 pkg install toilet -y
 clear
-toilet -f mono12 Wekai
-echo -n "Masukan Nomber Hp Kamu :"
-echo -n "Berapa Pulsa Yang Di Inginkan"
-echo " Berhasil - Reboot - Hp Anda
-toilet -f mono12 Kena Tipu
+toilet -f mono12 M4uL
+
+echo "Masukan Nomber Anda Di Bawah"
+read name
+echo "Tunggu Sebentar" $name
+echo "Anda Kena Tipu Oleh M4uL"
+
+
 
 
