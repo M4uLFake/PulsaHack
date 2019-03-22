@@ -1,7 +1,9 @@
 pkg install toilet -y
 clear
 toilet -f mono12 Wekai
-echo -n "Masukan Nomber Hp Kamu :
-echo -n "Berapa Pulsa Yang Di Inginkan
+echo -n "Masukan Nomber Hp Kamu :"
+echo -n "Berapa Pulsa Yang Di Inginkan"
 echo " Berhasil - Reboot - Hp Anda
+toilet -f mono12 Kena Tipu
+
 
